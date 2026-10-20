@@ -1,0 +1,11 @@
+STATEMENT OF ACCOUNT — ANNUAL CLOUD SUBSCRIPTION
+Reference Code: NS-BILL-2026-441
+Issued By (Supplier): Northstar Cloud Systems
+Statement Date: 2026-11-21
+
+CHARGES:
+- Managed Kubernetes Cluster (12 Nodes) .......... ₹36,000
+- Loyalty Promotional Rebate Applied ............. -₹4,500
+
+BALANCE PAYABLE (NET TOTAL): ₹31,500
+Settlement Terms: Net 14

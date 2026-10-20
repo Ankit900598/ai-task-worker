@@ -1,0 +1,8 @@
+INVOICE: INV-1001
+VENDOR: Acme Supplies Ltd
+DATE: 2026-10-01
+ITEMS:
+- Duplicate Office Hardware Batch = ₹12,500
+TOTAL AMOUNT: ₹12,500
+DUE DATE: 2026-10-15
+NOTES: This invoice ID is a duplicate of an existing record.

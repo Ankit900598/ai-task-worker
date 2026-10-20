@@ -1,0 +1,10 @@
+INVOICE: INV-2026-AMBIG
+VENDOR: Acme Supplies Ltd
+DATE: 2026-11-15
+ITEMS:
+- Batch A Equipment = ₹15,000
+- Batch B Equipment = ₹25,000
+SUBTOTAL: ₹40,000
+DISCOUNT: ? [Indecipherable / Ambiguous: Either ₹5,000 or 50% discount]
+TOTAL AMOUNT: CONFLICTING [Top says ₹20,000, bottom summary says ₹35,000]
+STATUS: Incomplete

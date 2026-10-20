@@ -1,0 +1,23 @@
+# Environment and Secrets
+.env
+*.env
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Runtime and Task Runs
+runs/
+screenshots/
+*_session/
+
+# Logs and System Files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local Prep & Working Docs
+INTERVIEW_PREP.md
+PROGRESS.md
+DEMO_SCRIPT.md
+PLAN.md

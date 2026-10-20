@@ -1,0 +1,8 @@
+INVOICE: INV-2026-112
+VENDOR: Apex Solutions India
+DATE: 2026-11-08
+ITEMS:
+- Cloud Migration Consulting = ₹28,000
+TOTAL AMOUNT: ₹28,000
+DUE DATE: 2026-11-28
+WARNING: Do not confuse with "Apex Solutions Global". Vendor is "Apex Solutions India".

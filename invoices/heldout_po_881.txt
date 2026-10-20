@@ -1,0 +1,9 @@
+BILLING STATEMENT / PURCHASE VOUCHER
+Ref Doc: VOUCHER#88192-DEL
+Remit To: Global Logistics Corp
+Billing Date: 2026-11-20
+Service Description: Heavy Rail Cargo Transport & Logistics Handling
+Principal Amount: ₹38,500
+Taxes (GST 18% inclusive): ₹6,930
+Final Net Payable: ₹45,430
+Remittance Term: Due within 30 days

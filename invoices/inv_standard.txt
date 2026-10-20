@@ -1,0 +1,9 @@
+INVOICE: INV-2026-044
+VENDOR: Acme Supplies Ltd
+DATE: 2026-11-10
+ITEMS:
+- 10x Office Hardware Kits @ ₹2,500 = ₹25,000
+- 1x Shipping & Handling = ₹7,400
+TOTAL AMOUNT: ₹32,400
+DUE DATE: 2026-11-25
+PAYMENT TERMS: Net 15

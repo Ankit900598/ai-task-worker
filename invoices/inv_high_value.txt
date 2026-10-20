@@ -1,0 +1,9 @@
+INVOICE: INV-2026-095
+VENDOR: Global Logistics Corp
+DATE: 2026-11-12
+ITEMS:
+- Enterprise Freight & Air Transport Services = ₹75,000
+- Cold Storage Container Fee = ₹9,000
+TOTAL AMOUNT: ₹84,000
+DUE DATE: 2026-11-30
+NOTES: Amount exceeds ₹50,000 enterprise approval threshold.

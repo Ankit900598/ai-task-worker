@@ -1,0 +1,8 @@
+INVOICE FOR PROFESSIONAL SERVICES
+Invoice #: SRV-2026-903
+Date: 2026-11-18
+Client / Bill To: Apex Solutions Global
+Service Provider / Payee Vendor: Apex Solutions India
+Scope: Security Penetration Testing & Vulnerability Assessment
+Fee: ₹35,000
+Payment Due: Net 30
